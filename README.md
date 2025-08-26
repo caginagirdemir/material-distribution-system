@@ -13,7 +13,12 @@
 ## Team
 
 - Developed by a **2-person team**: 2 developers 
-- **Development Duration:** 5 months  
+- **Development Duration:** 5 months
+
+## Video
+- [Department Video 1](https://www.youtube.com/watch?v=PtwwyeLlQFk)
+- [Department Video 2](https://www.youtube.com/watch?v=nrz0dP6Oing)
+- [Customer (Ulker) Video](https://www.youtube.com/watch?v=PtwwyeLlQFk)
 
 ## Screenshots
 
