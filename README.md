@@ -17,7 +17,7 @@
 
 ## Video
 - [Department Video 1](https://www.youtube.com/watch?v=PtwwyeLlQFk)
-- [Department Video 2](https://www.youtube.com/watch?v=nrz0dP6Oing)
+- [Department Video 2](https://youtu.be/MgRFOqDKFdg)
 - [Customer (Ulker) Video](https://youtu.be/3CGMXO0Sjo0)
 
 ## Screenshots
