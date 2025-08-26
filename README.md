@@ -5,7 +5,7 @@
 
 ## Technologies Used
 
-- **Backend:** C# ASP.NET MVC  
+- **Backend:** C# ASP.NET MVC + TCP/IP Com.
 - **Frontend:** Bootstrap5 (UI framework)  
 - **Database:** Microsoft SQL Server 2019 (MSSQL 19)  
 - **Version Control / CI/CD:** GitHub
@@ -18,7 +18,7 @@
 ## Video
 - [Department Video 1](https://www.youtube.com/watch?v=PtwwyeLlQFk)
 - [Department Video 2](https://www.youtube.com/watch?v=nrz0dP6Oing)
-- [Customer (Ulker) Video](https://www.youtube.com/watch?v=PtwwyeLlQFk)
+- [Customer (Ulker) Video](https://youtu.be/xYGiTJlW1Q8)
 
 ## Screenshots
 
