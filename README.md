@@ -16,7 +16,7 @@
 - **Development Duration:** 5 months
 
 ## Video
-- [Department Video 1](https://www.youtube.com/watch?v=PtwwyeLlQFk)
+- [Department Video 1](https://youtu.be/g2KKHw9QC6g)
 - [Department Video 2](https://youtu.be/MgRFOqDKFdg)
 - [Customer (Ulker) Video](https://youtu.be/3CGMXO0Sjo0)
 
