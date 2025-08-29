@@ -1,6 +1,6 @@
 ## Project
 
-- **Name:** AGV Material Delivery System
+- **Name:** AGV Material Distribution System
 - **Customer:** Ulker Biscuit Factory (Kocaeli), Arcelik Washing Machine Factory (Ankara), Arcelik Cooking Appliances Factory (Bolu)
 
 ## Technologies Used
